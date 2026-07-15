@@ -1,7 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: white;
-    margin:auto
+    background-color: rgb(175, 175, 175);
+    margin: 0;
 }
 .div2 {
     font-family: Arial, Helvetica, sans-serif;
@@ -21,22 +21,73 @@ body {
     color: rgb(246, 246, 255);
     padding: 10px;
 }
-
-.profile {
-    margin-left: 10px;
-}
- img {
-    float: left;
-    margin-right: 30px;
-    border: 2px solid black;
-   
-}
-.profile2 {
-    margin: 2;
+.profile{
+    width:180px;
+    float:left;
+    margin-right:20px;
+    margin-bottom:20px;
 }
 
+.info{
+    margin-left:210px;
+}
 
+.clear{
+    clear:both;
+}
+.left{
+    width:48%;
+    float:left;
+}
 
+.right{
+    width:48%;
+    float:right;
+}
 
+.clear1{
+    clear:both;
+}
 
+.ohome1{
+    width:48%;
+    float:left;
+}
 
+.ohome2{
+    width:48%;
+    float:right;
+}
+
+.artist{
+    width:180px;
+    float:left;
+    margin-right:20px;
+    margin-bottom:20px;
+}
+
+.artist2{
+    margin-left:10px;
+}
+
+.food{
+    width:180px;
+    float:left;
+    margin-right:20px;
+    margin-bottom:20px;
+}
+
+.food2{
+    margin-left:210px;
+}
+
+.place{
+    width:180px;
+    float:left;
+    margin-right:20px;
+    margin-bottom:20px;
+}
+
+.place2{
+    margin-left:210px;
+}
